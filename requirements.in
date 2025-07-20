@@ -1,0 +1,7 @@
+opencv-python
+numpy<2
+mediapipe
+torch
+torchvision
+yolov5
+matplotlib 
